@@ -1,0 +1,31 @@
+1.	here are some commonly used HTML attributes:
+2.	class: This attribute is used to define a class for an HTML element, which can be used to apply CSS styling.
+3.	id: This attribute is used to define a unique identifier for an HTML element, which can be used for JavaScript and CSS styling.
+4.	src: This attribute is used to define the source URL for an image, video, or audio file.
+5.	href: This attribute is used to define the target URL for a hyperlink.
+6.	alt: This attribute is used to provide alternative text for an image, which is displayed if the image cannot be loaded or is inaccessible.
+7.	title: This attribute is used to provide a tooltip or descriptive text for an HTML element.
+8.	style: This attribute is used to define inline CSS styling for an HTML element.
+9.	width and height: These attributes are used to define the width and height of an HTML element, such as an image or video.
+10.	target: This attribute is used to define where a hyperlink should open, such as in a new tab or window.
+11.	type: This attribute is used to define the type of content for an HTML element, such as the MIME type for a video or audio file or the input type for a form element.
+12.	name: This attribute is used to define the name of an HTML element, such as a form input field or a button.
+13.	value: This attribute is used to define the initial value for an HTML element, such as a form input field or a checkbox.
+14.	placeholder: This attribute is used to provide a hint or example text for an HTML input field, which disappears when the user starts typing.
+15.	disabled: This attribute is used to disable an HTML element, such as a form input field or a button, so that it cannot be used.
+16.	required: This attribute is used to require that an HTML input field be filled out before a form can be submitted.
+17.	readonly: This attribute is used to make an HTML input field or text area read-only, so that the user cannot modify its contents.
+18.	selected: This attribute is used to define the default selected option in a drop-down list.
+19.	checked: This attribute is used to define the default checked state for a checkbox or radio button.
+20.	autofocus: This attribute is used to automatically focus on an HTML input field when the page loads.
+21.	autocomplete: This attribute is used to control the autocomplete behavior for an HTML input field, such as suggesting previously entered values.
+22.	rel: This attribute is used to define the relationship between the current document and the linked document or resource, such as "stylesheet" for a CSS file or "nofollow" for a hyperlink.
+23.	target: This attribute is used to define where to open the linked document or resource, such as "_blank" for a new window or tab.
+24.	download: This attribute is used to specify that the linked document or resource should be downloaded rather than displayed in the browser.
+25.	media: This attribute is used to specify the media type for which the styles in a linked or embedded stylesheet should be applied.
+26.	charset: This attribute is used to specify the character encoding for the HTML document, such as "UTF-8" or "ISO-8859-1".
+27.	lang: This attribute is used to specify the language of the HTML document, which can help screen readers and other assistive technologies.
+28.	content: This attribute is used to provide additional information for certain HTML elements, such as the description of a web page for search engines.
+29.	tabindex: This attribute is used to define the order of focus for HTML elements when navigating with the keyboard.
+30.	style: This attribute is used to define inline styles for HTML elements, such as the color or font size.
+31.	data-*: This attribute is used to store custom data for an HTML element, which can be accessed and manipulated with JavaScript.

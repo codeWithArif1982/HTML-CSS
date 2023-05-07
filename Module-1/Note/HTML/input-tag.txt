@@ -1,0 +1,55 @@
+
+a.	HTML input is used to create interactive form elements on web pages, such as text boxes, radio buttons, checkboxes, and more. Here are some common attributes you can use with HTML input:
+
+b.	type - This attribute specifies the type of input field you want to create. For example, if you want to create a text input field, you would set the type to "text". Other common types include "password", "checkbox", "radio", "submit", "button", and "file".
+
+c.	name - This attribute specifies the name of the input field. This is important because it allows you to identify the input field in your code and in the data submitted by the form.
+
+d.	value - This attribute specifies the default value of the input field. For example, if you're creating a text input field for a user's name, you might set the default value to "John Doe".
+
+e.	placeholder - This attribute specifies a placeholder text that is displayed in the input field before the user enters any text. This can be useful for providing a hint or example of what the user should enter.
+
+f.	required - This attribute specifies whether the input field is required to be filled out before the form can be submitted. If you set this attribute to "required", the user will not be able to submit the form without filling out the input field.
+
+g.	Here's an example of how you might use these attributes to create a text input field:
+
+
+i.	<label for="name">Name:</label>
+ii.	<input type="text" id="name" name="name" placeholder="Enter your name" required>
+
+
+h.	In this example, we're using the "label" element to provide a label for the input field. The "for" attribute of the label is set to the "id" attribute of the input field, which helps to associate the label with the input field.
+
+i.	The "type" attribute of the input field is set to "text", which creates a text input field. The "id" and "name" attributes are both set to "name", which identifies the input field in the code and in the form data.
+
+j.	The "placeholder" attribute is set to "Enter your name", which provides a hint to the user about what they should enter in the input field.
+
+k.	Finally, the "required" attribute is set to ensure that the user must fill out the input field before submitting the form.
+
+
+l.	The "input" tag is used to create various types of form controls, such as text fields, checkboxes, radio buttons, and more. The "type" attribute is used to specify the type of form control that the "input" element represents.
+
+m.	Here are some examples of "type" attributes and their corresponding form controls:
+
+i.	Text input field:
+1.	<input type="text" name="username">
+2.	This creates a text input field where the user can enter text, such as their username.
+
+ii.	Password input field
+1.	<input type="password" name="password">
+2.	This creates a password input field where the user's input is obscured with dots or asterisks.
+
+n.	<input type="radio" name="gender" value="male"> Male
+o.	<input type="radio" name="gender" value="female"> Female
+
+p.	This creates two radio buttons with the options "Male" and "Female", and the "name" attribute ensures that only one can be selected at a time.
+
+q.	Checkbox:
+
+1.	<input type="checkbox" name="newsletter" checked> Subscribe to newsletter
+2.	This creates a checkbox where the user can choose to subscribe to a newsletter, and the "checked" attribute makes it initially checked.
+
+r.	Date input field:
+i.	<input type="date" name="dob">
+ii.	This creates a date input field where the user can select a date using a calendar or input it manually in a specific format.
+

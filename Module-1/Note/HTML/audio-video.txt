@@ -1,0 +1,21 @@
+1.	The <video> tag in HTML is used to embed a video file on a webpage. Similarly, the <audio> tag is used to embed an audio file on a webpage. Let's take a look at their syntax and some of their related attributes:
+
+2.	Video Tag Syntax:
+    a.	<video src="video.mp4" width="640" height="360" controls></video>
+    b.	Attributes:
+        i.	src: This attribute specifies the source file URL of the video.
+        ii.	width: This attribute specifies the width of the video in pixels.
+        iii.	height: This attribute specifies the height of the video in pixels.
+        iv.	controls: This attribute displays the video player controls (play, pause, volume, etc.).
+        v.	autoplay: This attribute automatically starts playing the video when the page is loaded.
+        vi.	loop: This attribute loops the video playback.
+        vii.	muted: This attribute mutes the video sound.
+
+3.	Audio Tag Syntax:
+    a.	<audio src="audio.mp3" controls></audio>
+    b.	Attributes:
+        i.	src: This attribute specifies the source file URL of the audio.
+        ii.	controls: This attribute displays the audio player controls (play, pause, volume, etc.).
+        iii.	autoplay: This attribute automatically starts playing the audio when the page is loaded.
+        iv.	loop: This attribute loops the audio playback.
+        v.	muted: This attribute mutes the audio sound.

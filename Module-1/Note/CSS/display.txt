@@ -1,0 +1,16 @@
+display : block
+    1. content
+    2. content-example
+    3. content-test
+    4. content
+
+display : inline
+    1. content 2. content-example
+    3. content-test 4. content
+
+display : inline-block
+    1. large content   2. large content  3. large content
+        a. content        a. content        a. content
+        b. content-test   b. content-test  b. content-test
+       
+       

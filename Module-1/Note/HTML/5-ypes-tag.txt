@@ -1,0 +1,21 @@
+1.	Simple Tag (Two Bodyguard)
+    a.	Paragraph
+    b.	Haeding
+2.	With Attribute (With extra info)
+    a.	Anchor tag (<a>…</a>), tag attribute: href
+    b.	Image tag (<a>…</a>), tag attribute: src
+    c.	Input tag (<a>…</a>), tag attribute: type
+3.	Empty Tag (Nothing Inside)
+    a.	Break (/br>
+    b.	Horizontal (</hr>)
+4.	Container Tag (Has Children)
+    a.	Div (<div>…</div>)
+    b.	Unorder list (<ul> … </ul>)
+    c.	Order list (<ol> …</ol>)
+    d.	Form (<form> …</form>)
+5.	Declaration (Special)
+    a.  Div (<!DOCTYPE html>)
+
+
+
+

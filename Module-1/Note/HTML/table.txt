@@ -1,0 +1,27 @@
+1.	<table>: This is the opening tag for the table. It is used to indicate the start of a table.
+
+2.	<tr>: This stands for table row, and is used to indicate the start of a new row in the table.
+
+3.	<th>: This stands for table header, and is used to indicate a header cell in the table. Header cells are typically used for the first row in the table, to indicate what each column represents.
+
+4.	<td>: This stands for table data, and is used to indicate a regular cell in the table. Regular cells are used for all rows other than the first row.
+
+5.	</tr>: This is the closing tag for a row.
+
+6.	border: This attribute specifies the width of the border around the table. For example, <table border="1"> would create a table with a border width of 1 pixel.
+
+7.	cellspacing: This attribute specifies the amount of space between cells in the table. For example, <table cellspacing="10"> would create a table with 10 pixels of space between each cell.
+
+8.	cellpadding: This attribute specifies the amount of space between the content of a cell and the cell border. For example, <table cellpadding="5"> would create a table with 5 pixels of space between the content and the border of each cell.
+
+9.	width: This attribute specifies the width of the table. For example, `<The HTML table tag is used to create tables on web pages. Tables are useful for displaying data in an organized and easy-to-read format. Here's an example of a basic HTML table:
+
+10.	align: This attribute specifies the horizontal alignment of the table within its container. It can be set to "left", "center", or "right". Example:
+
+11.	<table align="center">
+
+12.	bgcolor: This attribute sets the background color of the table. Example:  <table bgcolor="#f2f2f2">
+
+13.	colspan: This attribute specifies how many columns a cell should span. Example:  <td colspan="2">This cell spans two columns</td>
+
+14.	rowspan: This attribute specifies how many rows a cell should span. Example: <td rowspan="2">This cell spans two rows</td>

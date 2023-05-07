@@ -1,0 +1,15 @@
+Absolute:
+    1. Pixels (px)
+    2. Inches (in)
+    3. Centimeters (cm)
+    4. Millimeters (mm)
+    5. Points (pt)
+    6. Picas (pc)
+
+Relative:
+    1. Percentages (%)
+    2. Font sizes (em, rem)
+    3. Character sizes (ex,ch)
+    4. Viewpoint dimensions (vh, vw)
+    5. viewpoint max (vmax)
+    6. viewpoint min (vmin)

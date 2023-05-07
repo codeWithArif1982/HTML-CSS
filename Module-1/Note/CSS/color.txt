@@ -1,0 +1,5 @@
+Html or CSS color name : red, black, white
+
+HexaCode : #RRGGBB (RR: red, GG: green, BB: blue)
+
+Decimal-code : rgb(red,green,blue)

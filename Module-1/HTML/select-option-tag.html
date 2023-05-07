@@ -1,0 +1,26 @@
+<select name="color" size="3">
+<option value="red">Red</option>
+<option value="green">Green</option>
+<option value="blue">Blue</option>
+</select>
+
+
+
+ <label for="fruit">Choose a fruit:</label>
+ <input list="fruits" id="fruit" name="fruit" />
+ <datalist id="fruits">
+   <option value="Apple">
+   <option value="Banana">
+   <option value="Cherry">
+   <option value="Durian">
+   <option value="Elderberry">
+ </datalist>
+
+
+ <!--
+    In this example, the div elements with a data-color 
+    attribute of "red" will have their text color set to red.
+    const price = document.querySelector('div').dataset.price;
+    console.log(price); // outputs "19.99"
+ -->
+ <div data-price="19.99" data-color="red" data-size="L">Red T-Shirt</div>

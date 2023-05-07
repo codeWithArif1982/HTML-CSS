@@ -1,0 +1,23 @@
+div {
+    width : 320px;
+    padding : 10px;
+    border : 5px solid gray;
+    margin: 0px;
+}
+
+calculation:
+        320 px (width)
+        20 px(left+rirht padding)
+        10 px (left+right border)
+        0 px (left+right margin)
+        total: 350 px
+
+Total element width = width
+        left padding + right padding
+        left border + right border
+        left margin + right margin
+
+Total element height = height
+        top padding + bottom padding
+        top border + bottom border
+        top margin + bottom margin

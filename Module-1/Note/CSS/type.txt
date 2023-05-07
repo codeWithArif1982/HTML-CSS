@@ -1,0 +1,7 @@
+There are three different types of CSS writing style:
+    1. Inline CSS style
+        a. Use 'style' attribute to write
+    2. Internal or Embedded CSS style
+        a. Use <style> tag to write
+    3. External CSS style
+        a.Use .css file to write

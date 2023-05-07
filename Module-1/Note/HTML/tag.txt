@@ -1,0 +1,40 @@
+1.	<html>: This tag is used to start an HTML document and contains all the other tags.
+2.	<head>: This tag contains information about the HTML document, such as the page title, links to CSS stylesheets, and meta tags.
+3.	<body>: This tag contains the visible content of the web page, including headings, paragraphs, images, and other HTML tags.
+4.	<h1> to <h6>: These tags are used to create headings of different sizes, with <h1> being the largest and <h6> being the smallest.
+5.	<p>: This tag is used to create paragraphs of text.
+6.	<a>: This tag is used to create hyperlinks to other web pages or to other sections of the same page.
+7.	<img>: This tag is used to insert images into a web page.
+8.	<ul> and <li>: These tags are used to create unordered lists, where each item is marked with a bullet point.
+9.	<ol> and <li>: These tags are used to create ordered lists, where each item is numbered.
+10.	<div>: This tag is used to create a division or section of a web page, which can be styled with CSS.
+11.	<br>: This tag is used to create a line break, without creating a new paragraph.
+12.	<hr>: This tag is used to create a horizontal line to visually separate content.
+13.	<table> and related tags (<tr>, <td>, <th>): These tags are used to create tables to display data in rows and columns.
+14.	<form> and related tags (<input>, <label>, <button>): These tags are used to create forms to collect user input.
+15.	<select> and related tags (<option>, <optgroup>): These tags are used to create drop-down menus for selecting options.
+16.	<textarea>: This tag is used to create a text box for users to enter longer text input.
+17.	<audio> and <video>: These tags are used to embed audio and video content on a web page.
+18.	<iframe>: This tag is used to embed another web page or content from another source within a web page.
+19.	<span>: This tag is used to apply styling to a specific section of text, without affecting the layout of the rest of the content.
+20.	<meta>: This tag is used to provide metadata about the HTML document, such as keywords, description, and author.
+21.	<header> and <footer>: These tags are used to define the header and footer sections of a web page, respectively.
+22.	<nav>: This tag is used to define a navigation menu on a web page.
+23.	<article>: This tag is used to define a self-contained piece of content, such as a blog post or news article.
+24.	<aside>: This tag is used to define content that is related to the main content but is not part of it, such as a sidebar or a callout box.
+25.	<section>: This tag is used to define a section of content on a web page, such as a chapter in a book or a product description on an e-commerce site.
+26.	<blockquote>: This tag is used to define a block of quoted text.
+27.	<cite>: This tag is used to define the title of a work being cited, such as a book or an article.
+28.	<code>: This tag is used to define a section of code or programming language.
+29.	<em>: This tag is used to italicize text for emphasis.
+30.	<strong>: This tag is used to bold text for emphasis.
+31.	<button>: This tag is used to create a clickable button that performs an action when clicked.
+32.	<label>: This tag is used to associate a label with a form element, such as an input field or checkbox.
+33.	<input>: This tag is used to create a variety of form elements, such as text fields, radio buttons, checkboxes, and more.
+34.	<select>: This tag is used to create a drop-down list of options for the user to select from.
+35.	<option>: This tag is used to define an option within a select list.
+36.	<textarea>: This tag is used to create a larger text input field for users to enter longer text.
+37.	<progress>: This tag is used to create a progress bar to show the completion of a task.
+38.	<meter>: This tag is used to create a gauge to display a value within a certain range.
+39.	<canvas>: This tag is used to create an area on a web page where JavaScript can be used to draw graphics and animations.
+40.	<svg>: This tag is used to create scalable vector graphics on a web page.
