@@ -1,0 +1,261 @@
+/* Reset some default styles for consistency */
+body, h1, h2, p, ul, li, input, form, label,button,textarea {
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Responsive styles */
+@media screen and (max-width: 768px) {
+  /* Responsive styles for smaller screens */
+}
+
+  /* Header styles */
+  header {
+    background-color: #f5f5f5;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+  }
+  
+  .logo img {
+    height: 20px;
+  }
+  
+  nav ul {
+    list-style: none;
+  }
+  
+  nav ul li {
+    display: inline-block;
+    margin-right: 10px;
+  }
+  
+  nav ul li a {
+    text-decoration: none;
+    color: #333;
+  }
+  
+  /* Featured post styles */
+  .featured-post {
+    padding: 20px;
+  }
+  
+  .featured-post h1 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .post {
+    display: flex;
+    align-items: center;
+  }
+  
+  .post img {
+    width: 200px;
+    height: auto;
+    margin-right: 20px;
+  }
+  
+  .post-content h2 {
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+  
+  .post-content p {
+    margin-bottom: 10px;
+  }
+  
+  .post-content a {
+    text-decoration: none;
+    background-color: #333;
+    color: #fff;
+    padding: 5px 10px;
+    border-radius: 3px;
+  }
+    /* Contact page styles */
+    h1 {
+        /* Page heading styles */
+        text-align: center;
+        margin-bottom: 20px;
+      }
+      
+      #contact-form {
+        /* Form styles */
+        width: 400px;
+        margin: 0 auto;
+      }
+      
+      .form-group {
+        /* Form field styles */
+        margin-bottom: 15px;
+      }
+      
+      label {
+        /* Label styles */
+        display: block;
+        font-weight: bold;
+        margin-bottom: 5px;
+      }
+      
+      input, textarea {
+        /* Input and textarea styles */
+        width: 100%;
+        padding: 10px;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+      }
+      
+      textarea {
+        /* Textarea specific styles */
+        height: 150px;
+      }
+      
+      button {
+        /* Submit button styles */
+        display: block;
+        width: 100%;
+        padding: 10px;
+        background-color: #4CAF50;
+        color: #fff;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+      }
+
+  
+  /* Blog posts styles */
+  .blog-posts {
+    /* Blog posts styles */
+  }
+  
+  .blog-posts h1 {
+    /* Heading styles */
+  }
+  
+  .post {
+    /* Post styles */
+  }
+  
+  .post h2 {
+    /* Post title styles */
+  }
+  
+  .post img {
+    /* Post image styles */
+  }
+  
+  .post p {
+    /* Post excerpt styles */
+  }
+  
+  .post a {
+    /* Read more button styles */
+  }
+  
+  /* Sidebar styles */
+  .sidebar {
+    /* Sidebar styles */
+  }
+  
+  .search {
+    /* Search bar styles */
+  }
+  
+  .search input {
+    /* Search input styles */
+  }
+  
+  .search button {
+    /* Search button styles */
+  }
+  
+  .categories {
+    /* Categories styles */
+  }
+  
+  .categories h3 {
+    /* Categories heading styles */
+  }
+  
+  .categories ul {
+    /* Categories list styles */
+  }
+  
+  .categories ul li {
+    /* Category item styles */
+  }
+  
+  .categories ul li a {
+    /* Category link styles */
+  }
+  
+  /* Single post styles */
+  .single-post {
+    /* Single post styles */
+  }
+  
+  .single-post h1 {
+    /* Post title styles */
+  }
+  
+  .single-post img {
+    /* Post image styles */
+  }
+  
+  .single-post .post-content {
+    /* Post content styles */
+  }
+  
+  .single-post .author {
+    /* Author styles */
+  }
+  
+  .single-post .author span {
+    /* Author name styles */
+  }
+  
+  /* Social sharing styles */
+  .social-sharing {
+    /* Social sharing styles */
+  }
+  
+  .social-sharing h3 {
+    /* Sharing heading styles */
+  }
+  
+  .social-sharing ul {
+    /* Sharing list styles */
+  }
+  
+  .social-sharing ul li {
+    /* Sharing button item styles */
+    display: inline-block;
+    margin-right: 10px;
+  }
+  
+  .social-sharing ul li a {
+    /* Sharing button styles */
+    display: inline-block;
+    padding: 10px;
+    background-color: #e0e0e0;
+    color: #333;
+    text-decoration: none;
+  }
+  
+  /* Individual social media button styles */
+  .social-sharing ul li a.facebook {
+    background-color: #3b5998;
+    color: #fff;
+  }
+  
+  .social-sharing ul li a.twitter {
+    background-color: #1da1f2;
+    color: #fff;
+  }
+  
+  .social-sharing ul li a.linkedin {
+    background-color: #0077b5;
+    color: #fff;
+  }
+  
+      
