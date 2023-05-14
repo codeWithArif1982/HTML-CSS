@@ -23,6 +23,7 @@ body, h1, h2, p, ul, li, input, form, label,button,textarea {
   
   nav ul {
     list-style: none;
+    padding: 10px;
   }
   
   nav ul li {
@@ -51,8 +52,10 @@ body, h1, h2, p, ul, li, input, form, label,button,textarea {
   }
   
   .post img {
-    width: 200px;
-    height: auto;
+    width: 100px;
+    height: 50px;
+    padding: 20px;
+    
     margin-right: 20px;
   }
   
